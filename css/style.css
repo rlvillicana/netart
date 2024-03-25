@@ -1,0 +1,98 @@
+
+    body{
+    height: 100vh;
+    display: flex;
+    }
+  
+  #gif {
+    margin-left: 5%;
+  }
+
+  #folder {
+    position: absolute;
+    margin-top: 48%;
+  }
+
+#folder:hover {
+    transform: scale(1.2);
+}
+
+  #cd {
+    position: absolute;
+    margin-top: 39%;
+  }
+
+  #cd:hover {
+    transform: scale(1.2);
+}
+
+  .draggable-box {
+    position: absolute;
+    cursor: grab;
+  }
+
+  #l1 {
+    left: 790px;
+    top: 30px
+  }
+
+
+  #l2 {
+    left: 680px;
+    top: 30px
+  }
+
+  #box1 {
+    left: 550px
+  }
+
+  #box2 {
+    left: 400px
+  }
+
+  #box3 {
+    left: 250px
+  }
+
+  #box4 {
+    left: 110px
+  }
+
+  #box5 {
+    left: 1px
+  }
+
+  #box6 {
+    top: 300px;
+    left: 670px
+  }
+
+  #box7 {
+    top: 300px;
+    left: 500px
+  }
+
+  #box8 {
+    top: 300px;
+    left: 200px
+  }
+
+  #skirt {
+    top: 300px;
+    left: 350px
+  }
+
+  #box9 {
+    top: 300px;
+    left: 1px
+  }
+
+  #box10 {
+    top: 500px;
+    left: 1px
+  }
+
+  #box11 {
+    top: 500px;
+    left: 200px
+  }
