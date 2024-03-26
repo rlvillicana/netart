@@ -1,5 +1,4 @@
-
-    body{
+   body{
     height: 100vh;
     display: flex;
     }
@@ -31,34 +30,45 @@
     cursor: grab;
   }
 
+  h1 {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px;
+  }
+
   #l1 {
     left: 790px;
-    top: 30px
+    top: 70px
   }
 
 
   #l2 {
     left: 680px;
-    top: 30px
+    top: 70px
   }
 
   #box1 {
+    top:50px;
     left: 550px
   }
 
   #box2 {
+    top:50px;
     left: 400px
   }
 
   #box3 {
+    top:50px;
     left: 250px
   }
 
   #box4 {
+    top:50px;
     left: 110px
   }
 
   #box5 {
+    top:50px;
     left: 1px
   }
 
