@@ -25,6 +25,17 @@
     transform: scale(1.2);
 }
 
+button {
+  background-color: blueviolet;
+  border: black;
+  padding: 1px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  font-family: Rum Raisin;
+}
+
   .draggable-box {
     position: absolute;
     cursor: grab;
